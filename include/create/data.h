@@ -36,6 +36,7 @@ POSSIBILITY OF SUCH DAMAGE.
 #include <boost/make_shared.hpp>
 #include <map>
 #include <vector>
+#include <iostream>
 
 #include "create/packet.h"
 #include "create/types.h"
